@@ -1,8 +1,11 @@
 # progetto-react-di-Andrea-Altomare NyT
 ---
 # New York Times React App
-("![image](https://github.com/user-attachments/assets/20c07249-e8c9-4d34-ac24-276eb1b00d17)
-")
+![image](https://github.com/user-attachments/assets/534c378e-2ae0-483f-8d15-e6632b03211f)
+![image](https://github.com/user-attachments/assets/a4eb0f4d-1075-4cca-bf67-c0af62d588e0)
+
+
+
 
 ## Descrizione
 ---
