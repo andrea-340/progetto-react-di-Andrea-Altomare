@@ -1,7 +1,7 @@
 # progetto-react-di-Andrea-Altomare NyT
 ---
 # New York Times React App
-![image](https://github.com/user-attachments/assets/534c378e-2ae0-483f-8d15-e6632b03211f)
+<img src="https://github.com/user-attachments/assets/534c378e-2ae0-483f-8d15-e6632b03211f" width="300" />
 ![image](https://github.com/user-attachments/assets/a4eb0f4d-1075-4cca-bf67-c0af62d588e0)
 
 
@@ -49,7 +49,7 @@ Questa è una web app React che consente di cercare e visualizzare articoli del 
 
 ```
 scarica il file zip ed esegui i comandi bash
-git clone("https://github.com/andrea-340/progetto-react-completo-di-Andrea-Altomare.git") 
+git clone(https://github.com/andrea-340/progetto-react-completo-di-Andrea-Altomare.git) 
 ```
 
 2. Installa le dipendenze:
