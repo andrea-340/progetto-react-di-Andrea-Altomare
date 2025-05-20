@@ -93,7 +93,7 @@ L’app sarà disponibile su [http://localhost:3000](http://localhost:3000)
 
 ## Deployment su Netlify
 
-[Netlify]("https://ny-times-clone.netlify.app")
+[Netlify]:("https://ny-times-clone.netlify.app")
 
 
 ## Come usare l’app
