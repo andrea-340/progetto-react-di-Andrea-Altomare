@@ -2,7 +2,7 @@
 ---
 # New York Times React App
 <img src="https://github.com/user-attachments/assets/534c378e-2ae0-483f-8d15-e6632b03211f" width="300" />
-![image](https://github.com/user-attachments/assets/a4eb0f4d-1075-4cca-bf67-c0af62d588e0)
+<img src="https://github.com/user-attachments/assets/a4eb0f4d-1075-4cca-bf67-c0af62d588e0" width="300" />
 
 
 
