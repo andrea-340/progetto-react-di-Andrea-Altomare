@@ -1,13 +1,10 @@
 # progetto-react-di-Andrea-Altomare NyT
 ---
-
 # New York Times React App
-<img width="600" alt="home" src="https://github.com/user-attachments/assets/c02f3372-e24b-48d4-a0dd-edbcae3453dd" />
-<img width="600" alt="home 2" src="https://github.com/user-attachments/assets/8411a09b-ce48-44b4-a158-b2b66a9c28db" />
-
-
+<img width="500" alt="home" src="https://github.com/user-attachments/assets/c02f3372-e24b-48d4-a0dd-edbcae3453dd" />
+<img width="500" alt="home 2" src="https://github.com/user-attachments/assets/8411a09b-ce48-44b4-a158-b2b66a9c28db" />
 ## Descrizione
-
+---
 Questa è una web app React che consente di cercare e visualizzare articoli del New York Times tramite la loro API ufficiale. L'app include:
 
 * Ricerca di articoli con debounce per ottimizzare le chiamate API.
