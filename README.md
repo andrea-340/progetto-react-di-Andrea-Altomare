@@ -59,8 +59,8 @@ Questa è una web app React che consente di cercare e visualizzare articoli del 
 🔧 Installazione
 	1.	Clona il repository
 
-git clone https://github.com/TUO-USERNAME/NOME-REPO.git
-cd NOME-REPO
+git clone https://github.com/andrea-340/progetto-react-di-Andrea-Altomare.git
+cd /Users/andreaaltomare
 
 	2.	Installa le dipendenze
 
