@@ -46,28 +46,49 @@ Questa è una web app React che consente di cercare e visualizzare articoli del 
 ## Installazione
 
 1. Clona il repository:
+⸻
 
-```
-scarica il file zip ed esegui i comandi bash
-git clone(https://github.com/andrea-340/progetto-react-completo-di-Andrea-Altomare.git) 
-```
+🚀 Come avviare il progetto
 
-2. Installa le dipendenze:
+📦 Requisiti
+	•	Node.js (versione consigliata: 18.x o superiore)
+	•	npm (viene installato con Node)
 
-```bash
+⸻
+
+🔧 Installazione
+	1.	Clona il repository
+
+git clone https://github.com/TUO-USERNAME/NOME-REPO.git
+cd NOME-REPO
+
+	2.	Installa le dipendenze
+
 npm install
-```
 
-4. Avvia l’app in locale:
+	3.	Avvia il server di sviluppo
 
-```bash
 npm start
-```
 
-L’app sarà disponibile su [http://localhost:3000](http://localhost:3000)
+L’app sarà visibile su http://localhost:3000.
 
----
+⸻
 
+🏗️ Build per la produzione
+
+Se vuoi generare la versione ottimizzata per la pubblicazione:
+
+npm run build
+
+
+⸻
+
+🌐 Demo online
+
+➡️ GitHub Repo: https://github.com/TUO-USERNAME/NOME-REPO
+➡️ Sito live su Netlify: https://TUA-URL.netlify.app
+
+⸻
 ## Struttura del progetto
 
 ```
