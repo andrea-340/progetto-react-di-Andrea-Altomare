@@ -60,7 +60,7 @@ Questa è una web app React che consente di cercare e visualizzare articoli del 
 	1.	Clona il repository
 
 git clone https://github.com/andrea-340/progetto-react-di-Andrea-Altomare.git
-cd /Users/andreaaltomare
+cd NOME-REPO
 
 	2.	Installa le dipendenze
 
