@@ -2,7 +2,8 @@
 
 ---
 presentazione
-[progetto-react-di-andrea-altomare.pdf](https://github.com/user-attachments/files/20426204/progetto-react-di-andrea-altomare.pdf)
+📄 [progetto-react-di-andrea-altomare.pdf.pdf](https://github.com/user-attachments/files/20426378/progetto-react-di-andrea-altomare.pdf.pdf)
+
 ---
 # New York Times React App
 <img src="https://github.com/user-attachments/assets/534c378e-2ae0-483f-8d15-e6632b03211f" width="300" />
