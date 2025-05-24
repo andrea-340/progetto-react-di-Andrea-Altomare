@@ -60,15 +60,18 @@ Questa è una web app React che consente di cercare e visualizzare articoli del 
 	1.	Clona il repository
 
 git clone https://github.com/andrea-340/progetto-react-di-Andrea-Altomare.git
-cd NOME-REPO
+---
+1. cd ~/nome-cartella
+2. cd progetto-react-di-Andrea-Altomare-main
+---
 
-	2.	Installa le dipendenze
+		Installa le dipendenze
 
-npm install
+3. npm install
 
-	3.	Avvia il server di sviluppo
+		Avvia il server di sviluppo
 
-npm start
+4. npm start
 
 L’app sarà visibile su http://localhost:3000.
 
