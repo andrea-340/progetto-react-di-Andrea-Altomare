@@ -77,19 +77,8 @@ L’app sarà visibile su http://localhost:3000.
 
 ⸻
 
-🏗️ Build per la produzione
-
-Se vuoi generare la versione ottimizzata per la pubblicazione:
-
-npm run build
-
-
-⸻
-
-🌐 Demo online
-
-➡️ GitHub Repo: https://github.com/TUO-USERNAME/NOME-REPO
-➡️ Sito live su Netlify: https://TUA-URL.netlify.app
+🌐 online
+➡️ Sito live su Netlify: https://ny-times-clone.netlify.app
 
 ⸻
 ## Struttura del progetto
