@@ -1,15 +1,11 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { fetchArticlesAPI } from "../../api/apiClient";
-
-// Thunk asincrono per fetch degli articoli
 export const fetchArticles = createAsyncThunk(
   "articles/fetchArticles",
   async (query, thunkAPI) => {
     try {
       const response = await fetchArticlesAPI(query);
       const data = response.data;
-
-      // Mappatura sicura dei documenti degli articoli
       return (
         data.response?.docs?.map((doc) => ({
           id: doc._id,
